@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580070460 source:c:\users\kris\desktop\card game\texas hold'em\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+
